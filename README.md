@@ -8,25 +8,25 @@ Night-Out Planner was created by Harry ([harrygturner](https://github.com/harryg
 
 ## MVP 🎭
 
-We wanted our app to fulfill the following MVPs:
-1. User should be able to search for a location 
-2. User should be able to find events in a nearby radius
-3. User should be able to find the top 20 events as rated by Predict HQ
-4. User should be able to log in
-5. User should be able to save events, and have them persist on the database
+We wanted our app to fulfill the following:
+1. User should be able to search for a location ✅ 
+2. User should be able to find events in a nearby radius ✅
+3. User should be able to find the top 20 events as rated by Predict HQ ✅
+4. User should be able to log in ✅
+5. User should be able to save events, and have them persist on the database ✅
 
 ## Stretch Goals 🍔🍔
 
 In order to further our app, we wanted to:
-1. Allow a user to search for restaurants in the nearby vicinity to the event 
-2. Allow a user to save their restaurant choice to their night, and have them persist as a whole 'night-out' on the database
-3. Implement CSS which is aesthetically pleasing to work with MapBox's styling
+1. Allow a user to search for restaurants in the nearby vicinity to the event ✅
+2. Allow a user to save their restaurant choice to their night, and have them persist as a whole 'night-out' on the database ✅
+3. Implement CSS which is aesthetically pleasing to work with MapBox's styling ✅
 
 ## Super Stretch Goals 🍸🍸🍸
 
 We wanted to also achieve these goals if we got the time towards the end of the week:
-1. Allow a user to search for both restaurants and bars, and add a mixture of both to their 'night-out'
-2. When a user selects an events and adds it to their night, the other events are removed from the map
+1. Allow a user to search for both restaurants and bars, and add a mixture of both to their 'night-out' ✅
+2. When a user selects an events and adds it to their night, the other events are removed from the map ✅
 
 ## APIs
 
@@ -41,7 +41,7 @@ We used Predict HQ to find the top 20 rated events near to your chosen/current l
 
 Our biggest issue with the APIs was that Google and MapBox take coordinates in the opposite order. Make sure you have you longitude and latitude the right way round!
 
-## Demo & Tutorial
+## Demo
 
 
 
